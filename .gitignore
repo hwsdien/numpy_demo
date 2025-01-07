@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.idea
+data.txt
+my_array.*
+my_data.*
+Pipfile.lock
